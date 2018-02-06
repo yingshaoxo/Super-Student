@@ -1,6 +1,6 @@
 # 第三章 牛逼的感觉
 
-就是这样， I got super power, 虽然萨克那小子把我从高空扔下来，掉在山上的我却毫发无损。
+就是这样， I got super power, 虽然萨克那小子把我从高空扔下来，掉在山上的我却毫发无伤。
 
 我开始在山谷里狂奔，you don't understand, that feeling, is like freedom.
 
