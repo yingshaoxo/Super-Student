@@ -1,3 +1,2 @@
-# My Awesome Book
+本书本该由一位前人写完，但不知为何，前辈失踪了，所以只好由我来续写了。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
