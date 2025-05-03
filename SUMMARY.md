@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [Introduction](README.md)
 * [第一章 外星来客](chapter1.md)
@@ -6,4 +6,4 @@
 * [第三章 牛逼的感觉](di-san-zhang-niu-bi-de-gan-jue.md)
 * [第四章 所谓修炼](di-si-zhang-suo-wei-xiu-lian.md)
 * [第五章 无尽孤独](di-wu-zhang-wu-jin-gu-du.md)
-
+* [第6章 致歉声明](di-6-zhang-zhi-qian-sheng-ming.md)
